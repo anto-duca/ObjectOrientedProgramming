@@ -491,11 +491,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anton\\OneDrive\\Documentos\\CarreraAnalista\\2022\\POO\\ProyectoDucaFinalSolucion\\dal\\DAL.csproj",
+      "projectUniqueName": "C:\\Users\\anton\\OneDrive\\Documentos\\CarreraAnalista\\2022\\POO\\ProyectoDucaFinalSolucion\\DAL\\DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "C:\\Users\\anton\\OneDrive\\Documentos\\CarreraAnalista\\2022\\POO\\ProyectoDucaFinalSolucion\\dal\\DAL.csproj",
+      "projectPath": "C:\\Users\\anton\\OneDrive\\Documentos\\CarreraAnalista\\2022\\POO\\ProyectoDucaFinalSolucion\\DAL\\DAL.csproj",
       "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anton\\OneDrive\\Documentos\\CarreraAnalista\\2022\\POO\\ProyectoDucaFinalSolucion\\dal\\obj\\",
+      "outputPath": "C:\\Users\\anton\\OneDrive\\Documentos\\CarreraAnalista\\2022\\POO\\ProyectoDucaFinalSolucion\\DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\anton\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -547,7 +547,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.406\\RuntimeIdentifierGraph.json"
       }
     }
   }
